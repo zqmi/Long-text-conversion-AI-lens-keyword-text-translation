@@ -20,9 +20,11 @@ pip install -r requirements.txt
 
 # 下载预训练模型：
 
-将预训练模型文件（Qwen2.5-0.5B）放置在项目根目录中。
+    将预训练模型文件（Qwen2.5-0.5B）放置在项目根目录中。
 
-使用方法
+    以及lora check检查点放置在./output/Qwen2_Poems目录中
+
+# 使用方法
 
 在项目目录下运行以下命令启动应用：
 
