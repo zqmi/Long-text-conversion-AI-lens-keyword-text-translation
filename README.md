@@ -7,7 +7,7 @@
 
 克隆项目：
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/zqmi/Long-text-conversion-AI-lens-keyword-text-translation.git
 
 cd your-repository
 
