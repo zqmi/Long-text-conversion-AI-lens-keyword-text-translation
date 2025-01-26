@@ -15,17 +15,15 @@ cd your-repository
 
 pip install -r requirements.txt
 
-requirements.txt 文件内容：
-
 下载预训练模型：
 
-将预训练模型文件（Qwen2.5-0.5B）放置在项目根目录中，或者根据需要修改 MODEL_NAME 路径。
+将预训练模型文件（Qwen2.5-0.5B）放置在项目根目录中。
 
 使用方法
 
 在项目目录下运行以下命令启动应用：
 
-python app.py
+python web.py
 
 启动后，您可以在浏览器中访问本地地址：http://127.0.0.1:7860
 
