@@ -4,13 +4,6 @@
 项目简介
 该项目使用基于 Transformer 的预训练语言大模型，通过输入自然语言文段来生成镜头画面描述。用户可以通过 Gradio 界面与模型进行交互，输入文本后，模型将生成对应的镜头画面描述。
 
-项目结构
-.
-├── web.py                    # 主程序文件，包含模型加载与 Gradio 界面
-├── Qwen2.5-0.5B/             # 预训练模型文件
-├── README.md                 # 项目的说明文档
-└── requirements.txt          # 项目依赖
-
 克隆项目：
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
