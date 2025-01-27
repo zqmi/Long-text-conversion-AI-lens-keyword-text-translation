@@ -13,6 +13,11 @@
     git clone https://github.com/zqmi/Long-text-conversion-AI-lens-keyword-text-translation.git
 
     cd Long-text-conversion-AI-lens-keyword-text-translation
+    
+# 环境配置
+
+    conda create -n Long-text-conversion python = 3.10
+    conda activate Long-text-conversion
 
 # 安装依赖：
 
